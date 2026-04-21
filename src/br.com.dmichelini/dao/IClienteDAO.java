@@ -3,9 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
 
-package dao;
-
-import java.util.Collection;
+package domain;
 
 /**
  *
